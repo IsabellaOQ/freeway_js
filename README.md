@@ -1,3 +1,5 @@
+# Jogo Freeway em JavaScript
+
 Código em JavaScript desenvolvido para o jogo Freeway, acompanhando o curso "**Lógica de programação: laços e listas com Javascript**" na Alura.
 
 **Objetivos:** <br>
@@ -17,6 +19,5 @@ Utilize as setas para cima e para baixo para movimentar o personagem.
 Certificado de conclusão:
 ![alt text](https://github.com/IsabellaOQ/freeway_js/blob/master/certificado.png)
 
-<br>
 Imagem do jogo:
 ![alt text](https://github.com/IsabellaOQ/freeway_js/blob/master/freeway_jogo.png)
