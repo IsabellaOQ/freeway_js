@@ -15,3 +15,7 @@ Dicas de jogabilidade:
 Utilize as setas para cima e para baixo para movimentar o personagem.
 
 Certificado de conclusão:
+![alt text](https://github.com/IsabellaOQ/freeway_js/blob/master/certificado.png)
+
+Imagem do jogo:
+![alt text]()
