@@ -10,7 +10,7 @@ Código em JavaScript desenvolvido para o jogo Freeway, acompanhando o curso "**
   
 <br>
 Link do jogo online: <br>
-https://editor.p5js.org/belica410/full/GBUFQgoxn
+https://editor.p5js.org/belica410/full/GBUFQgoxn (clique na tela do jogo que abrir)
 
 <br> <br>
 Dicas de jogabilidade:
