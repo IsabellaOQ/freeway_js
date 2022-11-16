@@ -19,5 +19,4 @@ Certificado de conclusão:
 
 <br>
 Imagem do jogo:
-<br>
 ![alt text](https://github.com/IsabellaOQ/freeway_js/blob/master/freeway_jogo.png)
