@@ -17,5 +17,6 @@ Utilize as setas para cima e para baixo para movimentar o personagem.
 Certificado de conclusão:
 ![alt text](https://github.com/IsabellaOQ/freeway_js/blob/master/certificado.png)
 
-Imagem do jogo:
+<br>
+Imagem do jogo: <br>
 ![alt text](https://github.com/IsabellaOQ/freeway_js/blob/master/freeway_jogo.png)
